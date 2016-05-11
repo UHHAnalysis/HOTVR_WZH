@@ -1,0 +1,26 @@
+#!/bin/sh
+rho = 150
+theta = 150
+mu = 150
+
+
+#string s_rho   = std::to_string(rho)
+#string s_theta = std::to_string(theta)
+#string s_mu    = std::to_string(mu)
+
+#string s_name = "_" + s_rho + "_" + s_theta + "_" + s_mu;
+#const char* V_name = s_name.c_str();
+
+make -j
+cd ../SFrameAnalysis/
+make -j
+cd -
+sframe_main config/TMVA_hhtt_gen_config + V_name.xml
+cd /nfs/dust/cms/user/trappeu/TMVA/
+
+root -l pt_flatening_signal.cxx   #(mit V_name uebergeben)
+root -l pt_flatening_qcd.cxx   #(mit V_name uebergeben)
+
+root -l HHTT_variable_training_gen_200_400.cxx
+root -l HHTT_variable_training_gen_600_800.cxx
+root -l HHTT_variable_training_gen_1200_1400.cxx

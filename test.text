@@ -1,0 +1,113 @@
+ reader->AddVariable("pf_pt1",&m_pf_pt[0]);
+   reader->AddVariable("pf_pt2",&m_pf_pt[1]);
+   reader->AddVariable("pf_pt3",&m_pf_pt[2]);
+   reader->AddVariable("pf_pt4",&m_pf_pt[3]);
+   reader->AddVariable("pf_pt5",&m_pf_pt[4]);
+   reader->AddVariable("pf_pt6",&m_pf_pt[5]);
+   reader->AddVariable("pf_pt7",&m_pf_pt[6]);
+   reader->AddVariable("pf_pt8",&m_pf_pt[7]);
+   reader->AddVariable("pf_pt9",&m_pf_pt[8]);
+   reader->AddVariable("pf_pt10",&m_pf_pt[9]);
+
+    reader->AddVariable("pf_pt11",&m_pf_pt[10]);
+   reader->AddVariable("pf_pt12",&m_pf_pt[11]);
+   reader->AddVariable("pf_pt13",&m_pf_pt[12]);
+   reader->AddVariable("pf_pt14",&m_pf_pt[13]);
+   reader->AddVariable("pf_pt15",&m_pf_pt[14]);
+   reader->AddVariable("pf_pt16",&m_pf_pt[15]);
+   reader->AddVariable("pf_pt17",&m_pf_pt[16]);
+   reader->AddVariable("pf_pt18",&m_pf_pt[17]);
+   reader->AddVariable("pf_pt19",&m_pf_pt[18]);
+   reader->AddVariable("pf_pt20",&m_pf_pt[19]);
+
+    reader->AddVariable("pf_pt21",&m_pf_pt[20]);
+   reader->AddVariable("pf_pt22",&m_pf_pt[21]);
+   reader->AddVariable("pf_pt23",&m_pf_pt[22]);
+   reader->AddVariable("pf_pt24",&m_pf_pt[23]);
+   reader->AddVariable("pf_pt25",&m_pf_pt[24]);
+   reader->AddVariable("pf_pt26",&m_pf_pt[25]);
+   reader->AddVariable("pf_pt27",&m_pf_pt[26]);
+   reader->AddVariable("pf_pt28",&m_pf_pt[27]);
+   reader->AddVariable("pf_pt29",&m_pf_pt[28]);
+   reader->AddVariable("pf_pt30",&m_pf_pt[29]);
+
+    reader->AddVariable("pf_pt31",&m_pf_pt[30]);
+   reader->AddVariable("pf_pt32",&m_pf_pt[31]);
+   reader->AddVariable("pf_pt33",&m_pf_pt[32]);
+   reader->AddVariable("pf_pt34",&m_pf_pt[33]);
+   reader->AddVariable("pf_pt35",&m_pf_pt[34]);
+   reader->AddVariable("pf_pt36",&m_pf_pt[35]);
+   reader->AddVariable("pf_pt37",&m_pf_pt[36]);
+   reader->AddVariable("pf_pt38",&m_pf_pt[37]);
+   reader->AddVariable("pf_pt39",&m_pf_pt[38]);
+   reader->AddVariable("pf_pt40",&m_pf_pt[39]);
+
+
+    reader->AddVariable("pf_pt41",&m_pf_pt[40]);
+   reader->AddVariable("pf_pt42",&m_pf_pt[41]);
+   reader->AddVariable("pf_pt43",&m_pf_pt[42]);
+   reader->AddVariable("pf_pt44",&m_pf_pt[3]);
+   reader->AddVariable("pf_pt45",&m_pf_pt[44]);
+   reader->AddVariable("pf_pt46",&m_pf_pt[45]);
+   reader->AddVariable("pf_pt47",&m_pf_pt[46]);
+   reader->AddVariable("pf_pt48",&m_pf_pt[47]);
+   reader->AddVariable("pf_pt49",&m_pf_pt[48]);
+   reader->AddVariable("pf_pt50",&m_pf_pt[49]);
+
+    reader->AddVariable("pf_pt51",&m_pf_pt[50]);
+   reader->AddVariable("pf_pt52",&m_pf_pt[51]);
+   reader->AddVariable("pf_pt53",&m_pf_pt[52]);
+   reader->AddVariable("pf_pt54",&m_pf_pt[53]);
+   reader->AddVariable("pf_pt55",&m_pf_pt[54]);
+   reader->AddVariable("pf_pt56",&m_pf_pt[55]);
+   reader->AddVariable("pf_pt57",&m_pf_pt[56]);
+   reader->AddVariable("pf_pt58",&m_pf_pt[57]);
+   reader->AddVariable("pf_pt59",&m_pf_pt[58]);
+   reader->AddVariable("pf_pt60",&m_pf_pt[59]);
+
+    reader->AddVariable("pf_pt61",&m_pf_pt[60]);
+   reader->AddVariable("pf_pt62",&m_pf_pt[61]);
+   reader->AddVariable("pf_pt63",&m_pf_pt[62]);
+   reader->AddVariable("pf_pt64",&m_pf_pt[63]);
+   reader->AddVariable("pf_pt65",&m_pf_pt[64]);
+   reader->AddVariable("pf_pt66",&m_pf_pt[65]);
+   reader->AddVariable("pf_pt67",&m_pf_pt[66]);
+   reader->AddVariable("pf_pt68",&m_pf_pt[67]);
+   reader->AddVariable("pf_pt69",&m_pf_pt[68]);
+   reader->AddVariable("pf_pt70",&m_pf_pt[69]);
+   
+    reader->AddVariable("pf_pt71",&m_pf_pt[70]);
+   reader->AddVariable("pf_pt72",&m_pf_pt[71]);
+   reader->AddVariable("pf_pt73",&m_pf_pt[72]);
+   reader->AddVariable("pf_pt74",&m_pf_pt[73]);
+   reader->AddVariable("pf_pt75",&m_pf_pt[74]);
+   reader->AddVariable("pf_pt76",&m_pf_pt[75]);
+   reader->AddVariable("pf_pt77",&m_pf_pt[76]);
+   reader->AddVariable("pf_pt78",&m_pf_pt[77]);
+   reader->AddVariable("pf_pt79",&m_pf_pt[78]);
+   reader->AddVariable("pf_pt80",&m_pf_pt[79]);
+
+   
+ reader->AddVariable("pf_pt81",&m_pf_pt[80]);
+   reader->AddVariable("pf_pt82",&m_pf_pt[81]);
+   reader->AddVariable("pf_pt83",&m_pf_pt[82]);
+   reader->AddVariable("pf_pt84",&m_pf_pt[83]);
+   reader->AddVariable("pf_pt85",&m_pf_pt[84]);
+   reader->AddVariable("pf_pt86",&m_pf_pt[85]);
+   reader->AddVariable("pf_pt87",&m_pf_pt[86]);
+   reader->AddVariable("pf_pt88",&m_pf_pt[87]);
+   reader->AddVariable("pf_pt89",&m_pf_pt[88]);
+   reader->AddVariable("pf_pt90",&m_pf_pt[89]);
+
+    reader->AddVariable("pf_pt91",&m_pf_pt[90]);
+   reader->AddVariable("pf_pt92",&m_pf_pt[91]);
+   reader->AddVariable("pf_pt93",&m_pf_pt[92]);
+   reader->AddVariable("pf_pt94",&m_pf_pt[93]);
+   reader->AddVariable("pf_pt95",&m_pf_pt[94]);
+   reader->AddVariable("pf_pt96",&m_pf_pt[95]);
+   reader->AddVariable("pf_pt97",&m_pf_pt[96]);
+   reader->AddVariable("pf_pt98",&m_pf_pt[97]);
+   reader->AddVariable("pf_pt99",&m_pf_pt[98]);
+   reader->AddVariable("pf_pt100",&m_pf_pt[99]);
+
+  

@@ -1,0 +1,43 @@
+{
+  TFile* fhist1 = new TFile("/nfs/dust/cms/user/trappeu/RocCycle.MC.QCD_gen14032016.root", "READ");  
+  TFile* fhist2 = new TFile("/nfs/dust/cms/user/trappeu/RocCycle.MC.WW_2000_Gen09032016.root", "READ");  
+  
+  
+  TH1D* S11 = (TH1D*)fhist->Get("NoCutsHistosGen/MMax");
+  TH1D* S21 = (TH1D*)fhist->Get("NoCutsHistosGen/MMax pT < 200");
+  TH1D* S31 = (TH1D*)fhist->Get("NoCutsHistosGen/MMax 200 < pT < 400");
+  TH1D* S41 = (TH1D*)fhist->Get("NoCutsHistosGen/MMax 400 < pT < 600");
+  TH1D* S51 = (TH1D*)fhist->Get("NoCutsHistosGen/MMax 600 < pT < 800");
+  TH1D* S61 = (TH1D*)fhist->Get("NoCutsHistosGen/MMax pT > 800");
+
+
+
+  TH1D* S12 = (TH1D*)fhist->Get("NoCutsHistosGen/tau2pertau1");
+  TH1D* S22 = (TH1D*)fhist->Get("NoCutsHistosGen/tau2pertau1 pT < 200");
+  TH1D* S32 = (TH1D*)fhist->Get("NoCutsHistosGen/tau2pertau1 200 < pT < 400");
+  TH1D* S42 = (TH1D*)fhist->Get("NoCutsHistosGen/tau2pertau1 400 < pT < 600");
+  TH1D* S52 = (TH1D*)fhist->Get("NoCutsHistosGen/tau2pertau1 600 < pT < 800");
+  TH1D* S62 = (TH1D*)fhist->Get("NoCutsHistosGen/tau2pertau1 pT > 800");
+
+
+  TCanvas* X2 = new TCanvas("X2", "Tau2perTau1", 1);  
+  TGraphAsymmErrors* Effi13 = new TGraphAsymmErrors(H13, H03,"");
+  Effi13->GetXaxis()->SetTitle("P_{T} [GeV]");
+  Effi13->GetYaxis()->SetTitle("Signal / Untergrund");
+  Effi13->Draw("ap");
+  E13->SaveAs("Effizienz WTagged 400 < pT < 600.eps");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

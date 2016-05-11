@@ -1,0 +1,132 @@
+#ifndef ZPrimeEugen_H
+#define ZPrimeEugen_H
+
+#include "TLorentzVector.h"
+#include "SFrameTools/include/Objects.h"
+#include "SFrameTools/include/BaseCycleContainer.h"
+
+/**
+ *   Class for ttbar generator truth information
+ */
+
+class ZPrimeEugen
+{
+  
+ public:
+  /// Default constructor, loops over generator particle list and fills the relevant particles
+  ZPrimeEugen(BaseCycleContainer* bcc);
+  
+  /// Default destructor
+  ~ZPrimeEugen();
+
+  enum E_DecayChannel{
+    e_had, 
+    e_ehad, 
+    e_muhad,
+    e_tauhad,
+    e_ee,  
+    e_mumu,
+    e_tautau,
+    e_emu,
+    e_etau,
+    e_mutau,
+    e_notfound
+  };
+
+
+  /*
+  GenParticle Top(); 
+  GenParticle Antitop();
+ GenParticle WTop(); 
+  GenParticle WAntitop(); 
+  GenParticle bTop(); 
+  GenParticle bAntitop(); 
+  bool IsTopHadronicDecay();
+  bool IsAntiTopHadronicDecay();
+  */
+
+
+  GenParticle ZPrime(); 
+  GenParticle W();
+  GenParticle WMinus();
+  GenParticle WPlus();
+  GenParticle AntiW(); 
+  
+  GenParticle Wdecay1(); 
+  GenParticle Wdecay2(); 
+
+  GenParticle WPlusDecay1(); 
+  GenParticle WPlusDecay2();
+
+  GenParticle WMinusDecay1(); 
+  GenParticle WMinusDecay2();
+  E_DecayChannel DecayChannel();
+
+
+ 
+  bool IsWHadronicDecay();
+  bool IsAntiWHadronicDecay();
+
+
+
+
+  //only for l+jets decays
+  GenParticle TopLep(); 
+  GenParticle TopHad();
+  GenParticle BLep();
+  GenParticle BHad(); 
+  GenParticle WLep();
+  GenParticle WHad(); 
+  GenParticle ChargedLepton();
+  GenParticle Neutrino();
+  GenParticle Q1();
+  GenParticle Q2(); 
+
+  
+ private:
+  /*
+  GenParticle m_Top; 
+  GenParticle m_Antitop;
+  GenParticle m_WTop; 
+  GenParticle m_WAntitop;
+  GenParticle m_bTop; 
+  GenParticle m_bAntitop;
+  */
+
+  GenParticle m_WPlusDecay1; 
+  GenParticle m_WPlusDecay2; 
+  GenParticle m_WMinusDecay1; 
+  GenParticle m_WMinusDecay2;
+  GenParticle m_WMinus; 
+  GenParticle m_WPlus;
+ 
+
+  GenParticle m_ZPrime;
+  GenParticle m_WZPrime;
+  GenParticle m_AntiWZPrime;
+  GenParticle m_AntiWdecay1;
+  GenParticle m_AntiWdecay2;
+
+  int m_pdgId1;
+  int m_pdgId2;
+  int m_IndexW;
+  int m_IndexAntiW;
+  int m_Indexb;
+  int m_Index1;
+  int m_Index2;
+
+  int m_WMinusDecayIndex1;
+  int m_WMinusDecayIndex2;
+
+  int m_WPlusDecayIndex1;
+  int m_WPlusDecayIndex2;
+
+
+
+  E_DecayChannel m_type;
+
+
+}; // class ZPrimeEugen
+
+
+#endif // ZPrimeEugen_H

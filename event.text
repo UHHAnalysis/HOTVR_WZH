@@ -1,0 +1,393 @@
+4252236
+cluster1
+constituents 28
+cluster1
+constituents 10
+*****
+fatjets 232.854 phi 2.93971 user index 663
+Jet number 667
+fatjets 114.758 phi 2.66664 user index 667
+Jet number 663
+fatjets 183.734 phi 2.30926 user index 663
+Jet number 739
+fatjets 66.6214 phi 4.80644 user index 785
+Jet number 760
+fatjets 226.371 phi 5.23236 user index 760
+Jet number 785
+fatjets 399.833 phi 0.139544 user index -1
+Jet number 803
+fatjets 52.8798 phi 5.58547 user index 785
+Jet number 847
+fatjets 36.4059 phi 3.34221 user index 667
+Jet number 897
+fatjets 37.1793 phi 1.33468 user index 739
+Jet number 969
+fatjets 6.73594 phi 1.60601 user index 739
+Jet number 920
+fatjets 21.2504 phi 4.75549 user index -1
+Jet number 975
+fatjets 11.3506 phi 1.4617 user index -1
+Jet number 999
+fatjets 8.31604 phi 2.71435 user index -1
+Jet number 1001
+fatjets 8.4579 phi 4.45518 user index -1
+Jet number 1011
+fatjets 3.81279 phi 2.12133 user index -1
+Jet number 1009
+fatjets 2.6392 phi 4.38502 user index -1
+Jet number 1005
+number of jets 11
+--------
+FATJETS comb 511.112 phi 2.66375 user index 1 constituents 85
+FATJETS comb 336.785 phi 5.20492 user index 4 constituents 106
+FATJETS comb 399.833 phi 0.139544 user index 6 constituents 145
+FATJETS comb 266.732 phi 2.9932 user index 8 constituents 74
+FATJETS comb 212.668 phi 2.14336 user index 9 constituents 91
+FATJETS comb 21.2504 phi 4.75549 user index 11 constituents 28
+FATJETS comb 11.3506 phi 1.4617 user index 12 constituents 10
+FATJETS comb 8.31604 phi 2.71435 user index 13 constituents 17
+FATJETS comb 8.4579 phi 4.45518 user index 14 constituents 14
+FATJETS comb 3.81279 phi 2.12133 user index 15 constituents 7
+FATJETS comb 2.6392 phi 4.38502 user index 16 constituents 4
+FATJETS 232.854 phi 2.93971 user index 1
+FATJETS 114.758 phi 2.66664 user index 1
+FATJETS 183.734 phi 2.30926 user index 1
+FATJETS 66.6214 phi 4.80644 user index 4
+FATJETS 226.371 phi 5.23236 user index 4
+FATJETS 399.833 phi 0.139544 user index 6
+FATJETS 52.8798 phi 5.58547 user index 4
+FATJETS 36.4059 phi 3.34221 user index 8
+FATJETS 37.1793 phi 1.33468 user index 9
+FATJETS 6.73594 phi 1.60601 user index 9
+FATJETS 21.2504 phi 4.75549 user index 11
+FATJETS 11.3506 phi 1.4617 user index 12
+FATJETS 8.31604 phi 2.71435 user index 13
+FATJETS 8.4579 phi 4.45518 user index 14
+FATJETS 3.81279 phi 2.12133 user index 15
+FATJETS 2.6392 phi 4.38502 user index 16
+FATJET 511.112 phi 2.66375 user index 1
+subjet 183.734 phi 2.30926 user index 1const 37
+subjet 114.758 phi 2.66664 user index 1const 18
+subjet 232.854 phi 2.93971 user index 1const 30
+FATJET 336.785 phi 5.20492 user index 4
+subjet 52.8798 phi 5.58547 user index 4const 41
+subjet 226.371 phi 5.23236 user index 4const 50
+subjet 66.6214 phi 4.80644 user index 4const 15
+FATJET 399.833 phi 0.139544 user index 6
+subjet 399.833 phi 0.139544 user index 6const 145
+FATJET 266.732 phi 2.9932 user index 8
+subjet 232.854 phi 2.93971 user index 8const 30
+subjet 36.4059 phi 3.34221 user index 8const 44
+FATJET 212.668 phi 2.14336 user index 9
+subjet 6.73594 phi 1.60601 user index 9const 4
+subjet 183.734 phi 2.30926 user index 9const 37
+subjet 37.1793 phi 1.33468 user index 9const 50
+FATJET 21.2504 phi 4.75549 user index 11
+subjet 21.2504 phi 4.75549 user index 11const 28
+FATJET 11.3506 phi 1.4617 user index 12
+subjet 11.3506 phi 1.4617 user index 12const 10
+FATJET 8.31604 phi 2.71435 user index 13
+subjet 8.31604 phi 2.71435 user index 13const 17
+FATJET 8.4579 phi 4.45518 user index 14
+subjet 8.4579 phi 4.45518 user index 14const 14
+FATJET 3.81279 phi 2.12133 user index 15
+subjet 3.81279 phi 2.12133 user index 15const 7
+FATJET 2.6392 phi 4.38502 user index 16
+subjet 2.6392 phi 4.38502 user index 16const 4
+CIRCLE
+CIRCLE2
+14
+CIRCLE2
+CIRCLE
+CIRCLE
+*****
+fatjets 232.854 phi 2.93971 user index 663
+Jet number 667
+fatjets 114.758 phi 2.66664 user index 667
+Jet number 663
+fatjets 183.734 phi 2.30926 user index 663
+Jet number 739
+fatjets 66.6214 phi 4.80644 user index 785
+Jet number 760
+fatjets 226.371 phi 5.23236 user index 760
+Jet number 785
+fatjets 399.833 phi 0.139544 user index -1
+Jet number 803
+fatjets 52.8798 phi 5.58547 user index 785
+Jet number 847
+fatjets 36.4059 phi 3.34221 user index 667
+Jet number 897
+fatjets 37.1793 phi 1.33468 user index 739
+Jet number 969
+fatjets 6.73594 phi 1.60601 user index 739
+Jet number 920
+fatjets 21.2504 phi 4.75549 user index -1
+Jet number 975
+fatjets 11.3506 phi 1.4617 user index -1
+Jet number 999
+fatjets 8.31604 phi 2.71435 user index -1
+Jet number 1001
+fatjets 8.4579 phi 4.45518 user index -1
+Jet number 1011
+fatjets 3.81279 phi 2.12133 user index -1
+Jet number 1009
+fatjets 2.6392 phi 4.38502 user index -1
+Jet number 1005
+number of jets 11
+--------
+FATJETS comb 511.112 phi 2.66375 user index 1 constituents 85
+FATJETS comb 336.785 phi 5.20492 user index 4 constituents 106
+FATJETS comb 399.833 phi 0.139544 user index 6 constituents 145
+FATJETS comb 266.732 phi 2.9932 user index 8 constituents 74
+FATJETS comb 212.668 phi 2.14336 user index 9 constituents 91
+FATJETS comb 21.2504 phi 4.75549 user index 11 constituents 28
+FATJETS comb 11.3506 phi 1.4617 user index 12 constituents 10
+FATJETS comb 8.31604 phi 2.71435 user index 13 constituents 17
+FATJETS comb 8.4579 phi 4.45518 user index 14 constituents 14
+FATJETS comb 3.81279 phi 2.12133 user index 15 constituents 7
+FATJETS comb 2.6392 phi 4.38502 user index 16 constituents 4
+FATJETS 232.854 phi 2.93971 user index 1
+FATJETS 114.758 phi 2.66664 user index 1
+FATJETS 183.734 phi 2.30926 user index 1
+FATJETS 66.6214 phi 4.80644 user index 4
+FATJETS 226.371 phi 5.23236 user index 4
+FATJETS 399.833 phi 0.139544 user index 6
+FATJETS 52.8798 phi 5.58547 user index 4
+FATJETS 36.4059 phi 3.34221 user index 8
+FATJETS 37.1793 phi 1.33468 user index 9
+FATJETS 6.73594 phi 1.60601 user index 9
+FATJETS 21.2504 phi 4.75549 user index 11
+FATJETS 11.3506 phi 1.4617 user index 12
+FATJETS 8.31604 phi 2.71435 user index 13
+FATJETS 8.4579 phi 4.45518 user index 14
+FATJETS 3.81279 phi 2.12133 user index 15
+FATJETS 2.6392 phi 4.38502 user index 16
+FATJET 511.112 phi 2.66375 user index 1
+subjet 183.734 phi 2.30926 user index 1const 37
+subjet 114.758 phi 2.66664 user index 1const 18
+subjet 232.854 phi 2.93971 user index 1const 30
+FATJET 336.785 phi 5.20492 user index 4
+subjet 52.8798 phi 5.58547 user index 4const 41
+subjet 226.371 phi 5.23236 user index 4const 50
+subjet 66.6214 phi 4.80644 user index 4const 15
+FATJET 399.833 phi 0.139544 user index 6
+subjet 399.833 phi 0.139544 user index 6const 145
+FATJET 266.732 phi 2.9932 user index 8
+subjet 232.854 phi 2.93971 user index 8const 30
+subjet 36.4059 phi 3.34221 user index 8const 44
+FATJET 212.668 phi 2.14336 user index 9
+subjet 6.73594 phi 1.60601 user index 9const 4
+subjet 183.734 phi 2.30926 user index 9const 37
+subjet 37.1793 phi 1.33468 user index 9const 50
+FATJET 21.2504 phi 4.75549 user index 11
+subjet 21.2504 phi 4.75549 user index 11const 28
+FATJET 11.3506 phi 1.4617 user index 12
+subjet 11.3506 phi 1.4617 user index 12const 10
+FATJET 8.31604 phi 2.71435 user index 13
+subjet 8.31604 phi 2.71435 user index 13const 17
+FATJET 8.4579 phi 4.45518 user index 14
+subjet 8.4579 phi 4.45518 user index 14const 14
+FATJET 3.81279 phi 2.12133 user index 15
+subjet 3.81279 phi 2.12133 user index 15const 7
+FATJET 2.6392 phi 4.38502 user index 16
+subjet 2.6392 phi 4.38502 user index 16const 4
+CIRCLE
+CIRCLE2
+7
+CIRCLE2
+CIRCLE
+CIRCLE
+*****
+fatjets 232.854 phi 2.93971 user index 663
+Jet number 667
+fatjets 114.758 phi 2.66664 user index 667
+Jet number 663
+fatjets 183.734 phi 2.30926 user index 663
+Jet number 739
+fatjets 66.6214 phi 4.80644 user index 785
+Jet number 760
+fatjets 226.371 phi 5.23236 user index 760
+Jet number 785
+fatjets 399.833 phi 0.139544 user index -1
+Jet number 803
+fatjets 52.8798 phi 5.58547 user index 785
+Jet number 847
+fatjets 36.4059 phi 3.34221 user index 667
+Jet number 897
+fatjets 37.1793 phi 1.33468 user index 739
+Jet number 969
+fatjets 6.73594 phi 1.60601 user index 739
+Jet number 920
+fatjets 21.2504 phi 4.75549 user index -1
+Jet number 975
+fatjets 11.3506 phi 1.4617 user index -1
+Jet number 999
+fatjets 8.31604 phi 2.71435 user index -1
+Jet number 1001
+fatjets 8.4579 phi 4.45518 user index -1
+Jet number 1011
+fatjets 3.81279 phi 2.12133 user index -1
+Jet number 1009
+fatjets 2.6392 phi 4.38502 user index -1
+Jet number 1005
+number of jets 11
+--------
+FATJETS comb 511.112 phi 2.66375 user index 1 constituents 85
+FATJETS comb 336.785 phi 5.20492 user index 4 constituents 106
+FATJETS comb 399.833 phi 0.139544 user index 6 constituents 145
+FATJETS comb 266.732 phi 2.9932 user index 8 constituents 74
+FATJETS comb 212.668 phi 2.14336 user index 9 constituents 91
+FATJETS comb 21.2504 phi 4.75549 user index 11 constituents 28
+FATJETS comb 11.3506 phi 1.4617 user index 12 constituents 10
+FATJETS comb 8.31604 phi 2.71435 user index 13 constituents 17
+FATJETS comb 8.4579 phi 4.45518 user index 14 constituents 14
+FATJETS comb 3.81279 phi 2.12133 user index 15 constituents 7
+FATJETS comb 2.6392 phi 4.38502 user index 16 constituents 4
+FATJETS 232.854 phi 2.93971 user index 1
+FATJETS 114.758 phi 2.66664 user index 1
+FATJETS 183.734 phi 2.30926 user index 1
+FATJETS 66.6214 phi 4.80644 user index 4
+FATJETS 226.371 phi 5.23236 user index 4
+FATJETS 399.833 phi 0.139544 user index 6
+FATJETS 52.8798 phi 5.58547 user index 4
+FATJETS 36.4059 phi 3.34221 user index 8
+FATJETS 37.1793 phi 1.33468 user index 9
+FATJETS 6.73594 phi 1.60601 user index 9
+FATJETS 21.2504 phi 4.75549 user index 11
+FATJETS 11.3506 phi 1.4617 user index 12
+FATJETS 8.31604 phi 2.71435 user index 13
+FATJETS 8.4579 phi 4.45518 user index 14
+FATJETS 3.81279 phi 2.12133 user index 15
+FATJETS 2.6392 phi 4.38502 user index 16
+FATJET 511.112 phi 2.66375 user index 1
+subjet 183.734 phi 2.30926 user index 1const 37
+subjet 114.758 phi 2.66664 user index 1const 18
+subjet 232.854 phi 2.93971 user index 1const 30
+FATJET 336.785 phi 5.20492 user index 4
+subjet 52.8798 phi 5.58547 user index 4const 41
+subjet 226.371 phi 5.23236 user index 4const 50
+subjet 66.6214 phi 4.80644 user index 4const 15
+FATJET 399.833 phi 0.139544 user index 6
+subjet 399.833 phi 0.139544 user index 6const 145
+FATJET 266.732 phi 2.9932 user index 8
+subjet 232.854 phi 2.93971 user index 8const 30
+subjet 36.4059 phi 3.34221 user index 8const 44
+FATJET 212.668 phi 2.14336 user index 9
+subjet 6.73594 phi 1.60601 user index 9const 4
+subjet 183.734 phi 2.30926 user index 9const 37
+subjet 37.1793 phi 1.33468 user index 9const 50
+FATJET 21.2504 phi 4.75549 user index 11
+subjet 21.2504 phi 4.75549 user index 11const 28
+FATJET 11.3506 phi 1.4617 user index 12
+subjet 11.3506 phi 1.4617 user index 12const 10
+FATJET 8.31604 phi 2.71435 user index 13
+subjet 8.31604 phi 2.71435 user index 13const 17
+FATJET 8.4579 phi 4.45518 user index 14
+subjet 8.4579 phi 4.45518 user index 14const 14
+FATJET 3.81279 phi 2.12133 user index 15
+subjet 3.81279 phi 2.12133 user index 15const 7
+FATJET 2.6392 phi 4.38502 user index 16
+subjet 2.6392 phi 4.38502 user index 16const 4
+CIRCLE
+CIRCLE2
+14
+CIRCLE2
+CIRCLE
+CIRCLE
+*****
+fatjets 232.854 phi 2.93971 user index 663
+Jet number 667
+fatjets 114.758 phi 2.66664 user index 667
+Jet number 663
+fatjets 183.734 phi 2.30926 user index 663
+Jet number 739
+fatjets 66.6214 phi 4.80644 user index 785
+Jet number 760
+fatjets 226.371 phi 5.23236 user index 760
+Jet number 785
+fatjets 399.833 phi 0.139544 user index -1
+Jet number 803
+fatjets 52.8798 phi 5.58547 user index 785
+Jet number 847
+fatjets 36.4059 phi 3.34221 user index 667
+Jet number 897
+fatjets 37.1793 phi 1.33468 user index 739
+Jet number 969
+fatjets 6.73594 phi 1.60601 user index 739
+Jet number 920
+fatjets 21.2504 phi 4.75549 user index -1
+Jet number 975
+fatjets 11.3506 phi 1.4617 user index -1
+Jet number 999
+fatjets 8.31604 phi 2.71435 user index -1
+Jet number 1001
+fatjets 8.4579 phi 4.45518 user index -1
+Jet number 1011
+fatjets 3.81279 phi 2.12133 user index -1
+Jet number 1009
+fatjets 2.6392 phi 4.38502 user index -1
+Jet number 1005
+number of jets 11
+--------
+FATJETS comb 511.112 phi 2.66375 user index 1 constituents 85
+FATJETS comb 336.785 phi 5.20492 user index 4 constituents 106
+FATJETS comb 399.833 phi 0.139544 user index 6 constituents 145
+FATJETS comb 266.732 phi 2.9932 user index 8 constituents 74
+FATJETS comb 212.668 phi 2.14336 user index 9 constituents 91
+FATJETS comb 21.2504 phi 4.75549 user index 11 constituents 28
+FATJETS comb 11.3506 phi 1.4617 user index 12 constituents 10
+FATJETS comb 8.31604 phi 2.71435 user index 13 constituents 17
+FATJETS comb 8.4579 phi 4.45518 user index 14 constituents 14
+FATJETS comb 3.81279 phi 2.12133 user index 15 constituents 7
+FATJETS comb 2.6392 phi 4.38502 user index 16 constituents 4
+FATJETS 232.854 phi 2.93971 user index 1
+FATJETS 114.758 phi 2.66664 user index 1
+FATJETS 183.734 phi 2.30926 user index 1
+FATJETS 66.6214 phi 4.80644 user index 4
+FATJETS 226.371 phi 5.23236 user index 4
+FATJETS 399.833 phi 0.139544 user index 6
+FATJETS 52.8798 phi 5.58547 user index 4
+FATJETS 36.4059 phi 3.34221 user index 8
+FATJETS 37.1793 phi 1.33468 user index 9
+FATJETS 6.73594 phi 1.60601 user index 9
+FATJETS 21.2504 phi 4.75549 user index 11
+FATJETS 11.3506 phi 1.4617 user index 12
+FATJETS 8.31604 phi 2.71435 user index 13
+FATJETS 8.4579 phi 4.45518 user index 14
+FATJETS 3.81279 phi 2.12133 user index 15
+FATJETS 2.6392 phi 4.38502 user index 16
+FATJET 511.112 phi 2.66375 user index 1
+subjet 183.734 phi 2.30926 user index 1const 37
+subjet 114.758 phi 2.66664 user index 1const 18
+subjet 232.854 phi 2.93971 user index 1const 30
+FATJET 336.785 phi 5.20492 user index 4
+subjet 52.8798 phi 5.58547 user index 4const 41
+subjet 226.371 phi 5.23236 user index 4const 50
+subjet 66.6214 phi 4.80644 user index 4const 15
+FATJET 399.833 phi 0.139544 user index 6
+subjet 399.833 phi 0.139544 user index 6const 145
+FATJET 266.732 phi 2.9932 user index 8
+subjet 232.854 phi 2.93971 user index 8const 30
+subjet 36.4059 phi 3.34221 user index 8const 44
+FATJET 212.668 phi 2.14336 user index 9
+subjet 6.73594 phi 1.60601 user index 9const 4
+subjet 183.734 phi 2.30926 user index 9const 37
+subjet 37.1793 phi 1.33468 user index 9const 50
+FATJET 21.2504 phi 4.75549 user index 11
+subjet 21.2504 phi 4.75549 user index 11const 28
+FATJET 11.3506 phi 1.4617 user index 12
+subjet 11.3506 phi 1.4617 user index 12const 10
+FATJET 8.31604 phi 2.71435 user index 13
+subjet 8.31604 phi 2.71435 user index 13const 17
+FATJET 8.4579 phi 4.45518 user index 14
+subjet 8.4579 phi 4.45518 user index 14const 14
+FATJET 3.81279 phi 2.12133 user index 15
+subjet 3.81279 phi 2.12133 user index 15const 7
+FATJET 2.6392 phi 4.38502 user index 16
+subjet 2.6392 phi 4.38502 user index 16const 4
+CIRCLE
+CIRCLE2
+7
+CIRCLE2
+CIRCLE
+CIRCLE

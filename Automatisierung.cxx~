@@ -1,0 +1,14 @@
+string s_rho   = std::to_string(rho);
+string s_theta = std::to_string(theta);
+string s_mu    = std::to_string(mu);
+
+string s_name = "_" + s_rho + "_" + s_theta + "_" + s_mu;
+const char* V_name = s_name.c_str();
+
+
+make -j
+cd ../SFrameAnalysis/
+make -j
+cd -
+sframe_main config/TMVA_hhtt_gen_config + V_name.xml
+cd /nfs/dust/cms/user/trappeu/TMVA/
