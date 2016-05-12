@@ -18,31 +18,6 @@
 <!ENTITY ZP4000W40 SYSTEM "/afs/naf.desy.de/user/u/usai/code/SFrame/SFrameAnalysis/config/Samples_TTBSM53/ZP4000W40.xml">
 <!ENTITY ZP4000W400 SYSTEM "/afs/naf.desy.de/user/u/usai/code/SFrame/SFrameAnalysis/config/Samples_TTBSM53/ZP4000W400.xml">
 
-<!ENTITY TTbarHad SYSTEM "/afs/desy.de/user/t/tlapsien/Analysis/Sframex/SFrameAnalysis/config/Samples_TTBSM53/TTJets_HadronicMGDecays_8TeV-madgraph.xml">
-<!ENTITY TTbarTL SYSTEM "/afs/desy.de/user/t/tlapsien/Analysis/Sframex/SFrameAnalysis/config/Samples_TTBSM53/TT_Powheg.xml">
-<!ENTITY TTbarHad00 SYSTEM "TTbarHad00">
-<!ENTITY TTbarHad01 SYSTEM "TTbarHad01">
-<!ENTITY TTbarHad02 SYSTEM "TTbarHad02">
-<!ENTITY TTbarHad03 SYSTEM "TTbarHad03">
-<!ENTITY TTbarHad04 SYSTEM "TTbarHad04">
-<!ENTITY TTbarHad05 SYSTEM "TTbarHad05">
-<!ENTITY TTbarHad06 SYSTEM "TTbarHad06">
-<!ENTITY TTbarHad07 SYSTEM "TTbarHad07">
-<!ENTITY TTbarHad08 SYSTEM "TTbarHad08">
-<!ENTITY TTbarHad09 SYSTEM "TTbarHad09">
-<!ENTITY TTbarSemi SYSTEM "/afs/desy.de/user/t/tlapsien/Analysis/Sframex/SFrameAnalysis/config/Samples_TTBSM53/TTJets_SemiLeptMGDecays_8TeV-madgraph.xml">
-<!ENTITY TTbarSemi00 SYSTEM "TTbarSemi00">
-<!ENTITY TTbarSemi01 SYSTEM "TTbarSemi01">
-<!ENTITY TTbarSemi02 SYSTEM "TTbarSemi02">
-<!ENTITY TTbarSemi03 SYSTEM "TTbarSemi03">
-<!ENTITY TTbarSemi04 SYSTEM "TTbarSemi04">
-<!ENTITY TTbarSemi05 SYSTEM "TTbarSemi05">
-<!ENTITY TTbarSemi06 SYSTEM "TTbarSemi06">
-<!ENTITY TTbarSemi07 SYSTEM "TTbarSemi07">
-<!ENTITY TTbarSemi08 SYSTEM "TTbarSemi08">
-<!ENTITY TTbarSemi09 SYSTEM "TTbarSemi09">
-<!ENTITY TTbarLept SYSTEM "/afs/naf.desy.de/user/u/usai/code/SFrame/SFrameAnalysis/config/Samples_TTBSM53/TTJets_FullLeptMGDecays_8TeV-madgraph.xml">
-<!ENTITY TTbar SYSTEM "/afs/naf.desy.de/user/u/usai/code/SFrame/SFrameAnalysis/config/Samples_TTBSM53/TT_Powheg.xml">
 
 <!ENTITY QCD_HT-100To250 SYSTEM "/afs/naf.desy.de/user/u/usai/code/SFrame/SFrameAnalysis/config/Samples_TTBSM53/QCD_HT-100To250_TuneZ2star_8TeV-madgraph-pythia.xml">
 <!ENTITY QCD_HT-250To500 SYSTEM "/afs/naf.desy.de/user/u/usai/code/SFrame/SFrameAnalysis/config/Samples_TTBSM53/QCD_HT-250To500_TuneZ2star_8TeV-madgraph-pythia6.xml">
@@ -189,19 +164,18 @@
 <!ENTITY RunD28 SYSTEM "RunD28">
 <!ENTITY RunD29 SYSTEM "RunD29">
 
+<!ENTITY WW_500 SYSTEM "/nfs/dust/cms/user/trappeu/SFrameOldVersion/Sframeforeugen/Sframex/LapsienAnalysis/config/WW_500.xml">
+<!ENTITY WW_1000 SYSTEM "/nfs/dust/cms/user/trappeu/SFrameOldVersion/Sframeforeugen/Sframex/LapsienAnalysis/config/WW_1000.xml">
+<!ENTITY WW_1500 SYSTEM "/nfs/dust/cms/user/trappeu/SFrameOldVersion/Sframeforeugen/Sframex/LapsienAnalysis/config/WW_1500.xml">
+<!ENTITY WW_2000 SYSTEM "/nfs/dust/cms/user/trappeu/SFrameOldVersion/Sframeforeugen/Sframex/LapsienAnalysis/config/WW_2000.xml">
+<!ENTITY WW_2500 SYSTEM "/nfs/dust/cms/user/trappeu/SFrameOldVersion/Sframeforeugen/Sframex/LapsienAnalysis/config/WW_2500.xml">
+<!ENTITY WW_3000 SYSTEM "/nfs/dust/cms/user/trappeu/SFrameOldVersion/Sframeforeugen/Sframex/LapsienAnalysis/config/WW_3000.xml">
+<!ENTITY WW_3500 SYSTEM "/nfs/dust/cms/user/trappeu/SFrameOldVersion/Sframeforeugen/Sframex/LapsienAnalysis/config/WW_3500.xml">
+<!ENTITY WW_4000 SYSTEM "/nfs/dust/cms/user/trappeu/SFrameOldVersion/Sframeforeugen/Sframex/LapsienAnalysis/config/WW_4000.xml">
 
-<!ENTITY Zprime4000w40 SYSTEM "/afs/desy.de/user/t/tlapsien/Analysis/Sframex/SFrameAnalysis/config/Samples_TTBSM53/ZP4000W40_allpfcands.xml">
-<!ENTITY Zprime3000w300 SYSTEM "/afs/desy.de/user/t/tlapsien/Analysis/Sframex/SFrameAnalysis/config/Samples_TTBSM53/ZP3000W300_allpfcands.xml">
-<!ENTITY Zprime3000w30 SYSTEM "/afs/desy.de/user/t/tlapsien/Analysis/Sframex/SFrameAnalysis/config/Samples_TTBSM53/ZP3000W30_allpfcands.xml">
-<!ENTITY TTbargenerator_flat SYSTEM "/afs/desy.de/user/t/tlapsien/Analysis/Sframex/SFrameAnalysis/config/Samples_TTBSM53/ttbar_generator.xml">
-<!ENTITY TTbargenerator_flat2 SYSTEM "/afs/desy.de/user/t/tlapsien/Analysis/Sframex/SFrameAnalysis/config/Samples_TTBSM53/ttbar_gen2.xml">
+
 <!ENTITY QCDgenerator_flat SYSTEM "/afs/desy.de/user/t/tlapsien/Analysis/Sframex/SFrameAnalysis/config/Samples_TTBSM53/qcd_generator.xml">
 
-
-
-<!ENTITY qcd15to3000 SYSTEM "/afs/desy.de/user/t/tlapsien/Analysis/Sframex/SFrameAnalysis/config/Samples_TTBSM53/ntuplewriter_ttbsm_53_plusprunedcfg_HTTcorr_CA8_Summer12_DR53X_QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_AODSIM_PU_S10_START53_V7A-v1.xml">
-
-<!ENTITY qcd15to30002 SYSTEM "/afs/desy.de/user/m/marchesi/public/ntuplewriter_ttbsm_53_plusprunedcfg_CA8_Summer12_DR53X_QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_AODSIM_PU_S10_START53_V7A-v1.xml">
 
 ]>
 
@@ -237,42 +211,25 @@
         <Package Name="ZprimeAnalysis.par" />
 -->	
 
-<!--<Cycle Name="HHTT_TMVACycle" OutputDirectory="/nfs/dust/cms/user/tlapsien/ZprimeRoc/" PostFix="_TMVA" TargetLumi="19708" >-->
-<Cycle Name="HHTT_TMVACycle"  RunMode="PROOF" ProofServer="lite://"  ProofWorkDir="/nfs/dust/cms/user/tlapsien/PROOF/" OutputDirectory="/nfs/dust/cms/user/tlapsien/hhtt_paper/" PostFix="_TMVA_newvar_OptimalR_generator2" TargetLumi="19708" >
 <!--
 
-<InputData Lumi="1.0" NEventsMax="-1" Type="MC" Version="TTbarEff_1" Cacheable="True">
-&TTbarSemi;
-&TTbarHad;
-<InputTree Name="AnalysisTree" />
-</InputData>
--->
-<!--
-<InputData Lumi="1.0" NEventsMax="-1" Type="MC" Version="TTbarEff_1" Cacheable="True">
-&TTbarSemi;
-<InputTree Name="AnalysisTree" />
-</InputData>
+<Cycle Name="HHTT_TMVACycle" OutputDirectory="/nfs/dust/cms/user/tlapsien/ZprimeRoc/" PostFix="_TMVA" TargetLumi="19708" >
 
-<InputData Lumi="1.0" NEventsMax="-1" Type="MC" Version="TTbarEff_2" Cacheable="True">
-&TTbarHad;
-<InputTree Name="AnalysisTree" /> 
-</InputData>
 -->
-<!--
-<InputData Lumi="1.0" NEventsMax="1000000" Type="MC" Version="TTbarEff_1" Cacheable="True">
-&TTbarTL;
+<Cycle Name="HHTT_TMVACycle"  RunMode="PROOF" ProofServer="lite://"  ProofWorkDir="/nfs/dust/cms/user/trappeu/PROOF/" OutputDirectory="/nfs/dust/cms/user/trappeu/Variablentest/" PostFix="_NEU_beta_x_TESTCONFIG" TargetLumi="19708" >
+
+
+
+
+<InputData Lumi="1.0" NEventsMax="1000000" Type="MC" Version="WW_500_Gen" Cacheable="True">
+&WW_500;
  <InputTree Name="AnalysisTree" />
-<MetadataOutputTree Name="TopTagTree" />
+<MetadataOutputTree Name="WTagTreeConstR" />
 </InputData>
--->
 
 
 
-<InputData Lumi="1.0" NEventsMax="-1" Type="MC" Version="TTbarEff_gen" Cacheable="True">
-&TTbargenerator_flat2;
-<InputTree Name="AnalysisTree" />
-<MetadataOutputTree Name="TopTagTree" />
-</InputData>
+
 
 <!--
 <InputData Lumi="1.0" NEventsMax="9000000" Type="MC" Version="QCD_gen" Cacheable="True">
